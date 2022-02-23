@@ -1,0 +1,380 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King, at St. James's-Chapel, Jan. 19th, 1695/6 by J. Lambe ...</title>
+            <author>Lambe, John, 1648 or 9-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48533</idno>
+            <idno type="STC">Wing L227</idno>
+            <idno type="STC">ESTC R3325</idno>
+            <idno type="EEBO-CITATION">12891978</idno>
+            <idno type="OCLC">ocm 12891978</idno>
+            <idno type="VID">95114</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48533)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95114)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 718:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King, at St. James's-Chapel, Jan. 19th, 1695/6 by J. Lambe ...</title>
+                  <author>Lambe, John, 1648 or 9-1708.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  O.T. --  Proverbs III, 6 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95114:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED before the KING, AT St. <hi>JAMES</hi>'s-Chapel, <hi>Jan.</hi> 19<hi rend="sup">th</hi>, 1695/6.</p>
+            <p>By <hi>J. LAMBE</hi> D. D. Dean of <hi>Ely,</hi> and Chaplain in Ordinary to His MAJESTY.</p>
+            <p>
+               <hi>Publiſhed by His Majeſty's Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby,</hi> at the <hi>Biſhop</hi>'s-<hi>Head</hi> in St. <hi>Paul</hi>'s Church-Yard, 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:95114:2"/>
+            <pb n="1" facs="tcp:95114:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROV. iij. 6.</hi>
+                  </bibl>
+                  <p>In all thy ways acknowledge Him, and He ſhall direct thy paths.</p>
+               </q>
+            </epigraph>
+            <p>THough God has given the Dominion of this lower World to Man; tho' He has endued him with a competent Un<g ref="char:EOLhyphen"/>derſtanding for the wiſe and proper Managery of this Power and Truſt, that every individual Perſon may be happy; yet this Dominion is not Abſolute, but in Conjunction with, and Sub<g ref="char:EOLhyphen"/>ordination to the Donor. He as not made us Independent, but our Grant is limited, and the Government of our Reaſon, and our Intire Sub<g ref="char:EOLhyphen"/>miſſion to His moſt perfect Counſels, are re<g ref="char:EOLhyphen"/>ſerv'd to Himſelf.</p>
+            <p>Indeed, our Nature is ſo framed that we cannot ſtand alone, that we cannot be Happy any other way, but under the Guidance and Di<g ref="char:EOLhyphen"/>rection of our Maker. For tho' we know a great many things, and might know many more if we attended to them; yet our Reaſon is im<g ref="char:EOLhyphen"/>perfect at the beſt; not accurate enough to com<g ref="char:EOLhyphen"/>pare exactly one thing with another, that we may be ſure to chuſe what is really our Good,
+<pb n="2" facs="tcp:95114:3"/>nor piercing deep enough into the Effects of Cauſes, that we may prevent thoſe evil Acci<g ref="char:EOLhyphen"/>dents which would deſtroy our Happineſs.</p>
+            <p>And therefore, if we Separate our ſelves from our Principle, and lean to our own Underſtan<g ref="char:EOLhyphen"/>ding, we deflect out of the way of our Nature, and ſoon ſhall find our ſelves in dangerous and untrodden Ways: our Ends will be abſurd, our Meaſures incompetent, and the Event of things will be fatal to us. But if we adhere to God, if we depend upon His Wiſdom, and truſt in His Power, He will not fail to proſper our Deſigns. For ſo ſays the wiſeſt of Men in my Text, <hi>In all thy Ways acknowledge Him, and He ſhall direct thy Paths.</hi>
+            </p>
+            <p>This Book of <hi>Proverbs</hi> is a perfect Syſtem of Moral and Divine Philoſophy, and propoſes ſo compleat, ſo exact a Rule of Practice to us, which can never fail, if we carefully obſerve it, to make us Wiſe and Happy.</p>
+            <p>This Third <hi>Chapter,</hi> of which my Text is a part, inſiſts in ſpecial manner, upon that prin<g ref="char:EOLhyphen"/>cipal part of Wiſdom and Policy, the Reſig<g ref="char:EOLhyphen"/>nation of our ſelves to God; or an intire Sub<g ref="char:EOLhyphen"/>miſſion of our Opinions, Deſires, and Actions, to His moſt Wiſe Direction. That we Judge of Good and Evil by thoſe Accounts which He has given of it; That we Believe what
+<pb n="3" facs="tcp:95114:3"/>He Reveals; That we confide intirely in His Word and Promiſes, and Do and Suffer cheer<g ref="char:EOLhyphen"/>fully whatſoever He requires. <hi>My Son, forget not thou my Law, but let thine Heart keep My Commandments,</hi> v. 1. <hi>Lean not to thine own <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>derſtanding, and be not wiſe in thine own Conceit; but Fear the Lord, and Truſt in Him with all thine Heart,</hi> at the 7th. Verſe. <hi>Deſpiſe not His Chaſtnings, for whom He Loves He corrects; And Happy is he who finds this Wiſdom,</hi> at the 13th. Verſe.</p>
+            <p>Now my Text reſolves theſe ſeveral Parti<g ref="char:EOLhyphen"/>culars, and all other Duties of the Kind, into this one ſtanding Rule or Precept, <hi>In all thy ways acknowledge Him, and He ſhall direct thy Paths.</hi>
+            </p>
+            <p>Which Words conſiſt of theſe two General Parts.</p>
+            <list>
+               <item>I. The Firſt is an Exhortation or a Duty en<g ref="char:EOLhyphen"/>joyn'd, <hi>In all thy Ways acknowledge Him.</hi>
+               </item>
+               <item>II. The Second is the Motive or Encourage<g ref="char:EOLhyphen"/>ment to the Practice of it, <hi>And He ſhall direct thy Paths.</hi>
+               </item>
+            </list>
+            <p n="1">1. I begin with the Firſt of theſe, the Duty enjoyn'd, <hi>In all thy Ways acknowledge Him.</hi> And,</p>
+            <pb n="4" facs="tcp:95114:4"/>
+            <list>
+               <item>1. <hi>Firſt,</hi> I ſhall explain the <hi>Nature</hi> of the Duty, or what it is, and when a Man may be ſaid, in his Ways to Acknowledge God. And,</item>
+               <item>2. <hi>Secondly,</hi> I ſhall conſider the <hi>Extent</hi> and <hi>Latitude</hi> of the Duty, or the manner how it is to be performed, not partially, not only in ſome Particulars, but in <hi>All</hi> our Ways.</item>
+            </list>
+            <p>
+               <hi>In all thy Ways acknowledge Him.</hi>
+            </p>
+            <p n="1">1. I begin with the Firſt of theſe, and ſhall endeavour to explain the <hi>Nature</hi> of the Duty, or what it is, and when a Man may be ſaid, <hi>in His Ways to Acknowledge God.</hi>
+            </p>
+            <p>It is very uſual, in the Holy Scriptures, by the Metaphor of our <hi>Ways,</hi> and our <hi>Paths,</hi> to expreſs the Deſigns, the Aims, and Intentions of our Mind, together with our Actions conſequent upon them, or our Proſecution of them in the Courſe of our Lives; and thus I ſhall underſtand it in my Text, as well with Reſpect to the Inward, Previous Mo<g ref="char:EOLhyphen"/>tions of our Souls, and to our Viſible and Exter<g ref="char:EOLhyphen"/>nal Actions. For the outward Act has ſuch an Inſeparable Connection with the Principle, or Cauſe thereof, that it is impoſſible to give a Rule for the Regulation of the one, which ſhall not oblige us alſo in Reſpect of the other. And the Metaphor it ſelf, is as natural and eaſie, when applied to the Motions of our Mind, as when it is limited to the Scope and Tendency of our
+<pb n="5" facs="tcp:95114:4"/>outward Actions. And, in Fact, it is uſed in<g ref="char:EOLhyphen"/>differently in the Holy Scriptures with Reſpect to both, or either, of them. <hi>Thy Way is in the Sea,</hi> ſays the Pſalmiſt, ſpeaking of God Himſelf; <hi>Thy Paths are in the great Waters, and Thy Foot<g ref="char:EOLhyphen"/>ſteps are not known.</hi> That is, Thy Secret Counſels,<note place="margin">Pſ. 77.19.</note> and Thine External Diſpenſations, are both of them Inſcrutable. And St. <hi>Paul</hi> cries out in an Holy Rapture, <hi>Thy Judgments and Thy Ways</hi> (which are join'd together) <hi>are paſt our find<g ref="char:EOLhyphen"/>ing out;</hi>
+               <note place="margin">Rom. 11.33.</note> 
+               <hi>And who has known the Mind of the Lord?</hi>
+            </p>
+            <p>Thus alſo in Reſpect of the Actions and De<g ref="char:EOLhyphen"/>ſigns of Men; <hi>Thou underſtandeſt my thoughts afar off,</hi> ſays the Pſalmiſt, <hi>Thou compaſſeſt my Path, and my lying down,</hi>
+               <note place="margin">Pſal. 139.2, 3.</note> 
+               <hi>and art acquainted with all my Ways;</hi> that is, with all the Motions both of my Soul and Body.</p>
+            <p>
+               <hi>If my Steps,</hi> ſays Holy <hi>Job, have turned out of the Way, or if mine Heart has walked after mine Eyes,</hi> &amp;c. where the Motions of his <hi>Mind,</hi>
+               <note place="margin">Job 31.7.</note> as well as thoſe of his <hi>Body,</hi> are expreſs'd by his <hi>Steps</hi> and his <hi>Walk.</hi>
+            </p>
+            <p>And this is enough to ſhow, that by our <hi>Paths,</hi> and our <hi>Ways,</hi> in my Text, we may fairly under<g ref="char:EOLhyphen"/>ſtand our whole Capacity of Judging, Deſigning, Reſolving, and Acting.</p>
+            <pb n="6" facs="tcp:95114:5"/>
+            <p>
+               <hi>In all thy Ways,</hi> that is, in all the Deliberations of thy Mind, in all thy Conſultations, Ends, and Actions,</p>
+            <p>
+               <hi>Acknowledge God.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Recognize and Own Him; Re<g ref="char:EOLhyphen"/>member, and reflect upon thy Relation to Him, that He is thy God and thy Creator, that thou art of Right, and of Neceſſity His Subject, that thou acteſt merely by His Commiſſion, and by that Power which He has given thee. <hi>Acknow<g ref="char:EOLhyphen"/>ledge Him</hi> to be thy Lord, thy Governour and Judge, that He is always preſent with thee, and that thou can'ſt hide nothing from Him. <hi>Set Him,</hi> thus, in all thy ways, <hi>before thy face,</hi> as the Pſalmiſt phraſes it.<note place="margin">Pſ. 16.8.</note> This is the literal Conſtru<g ref="char:EOLhyphen"/>ction of the word <hi>Acknowledge</hi> Him.</p>
+            <p>But the Duty, in the Practice of it, extends a great deal farther. For it is not only an <hi>Ac<g ref="char:EOLhyphen"/>knowledgment</hi> of the Mind that is here required, but alſo all ſuch proper Acts, as ſuch an <hi>Acknow<g ref="char:EOLhyphen"/>ledgment,</hi> if it be ſincere, will direct and prompt us to.</p>
+            <p>The Fifth and the Seventh Verſes, which with my Text, make one intire and perfect Period, give us a ſufficient Light both into the Senſe of the Terms, and the Nature of the Duty. <hi>Lean not to thine own <g ref="char:V">Ʋ</g>nderſtanding,</hi> V. 5. and, <hi>Be not Wiſe in thine own conceit,</hi> at the 7th. Verſe, <hi>But,
+<pb n="7" facs="tcp:95114:5"/>in all thy Ways acknowledge Him,</hi> as in my Text; which is the ſame as if He had ſaid, Follow not the Bent and Inclination of thine own corrupt and ſenſual Will; Be not ſo fooliſh as to be<g ref="char:EOLhyphen"/>lieve that thou canſt ſtand alone; That by the Strength of thy natural Underſtanding thou canſt make thy ſelf happy; That thou canſt form ſuch Ends to thy ſelf, as are every way moſt proper for thee, and chalk out the Beſt and apteſt Means whereby thou may'ſt accompliſh them, <hi>Lean not to thine own <g ref="char:V">Ʋ</g>nderſtanding:</hi> What then ſhould I do? Why, <hi>in all thy Ways acknowledge God,</hi> take <hi>His</hi> Advice and Dire<g ref="char:EOLhyphen"/>ction with thee; be Over-rul'd and Govern'd by <hi>Him.</hi>
+            </p>
+            <p>It is not then a diſtinct and ſimple Duty by it ſelf, or that at certain times, in a ſolemn manner we recognize the Being, and the Attri<g ref="char:EOLhyphen"/>butes of God; But in <hi>all</hi> our Thoughts, De<g ref="char:EOLhyphen"/>ſigns, and Actions, we are commanded to <hi>ac<g ref="char:EOLhyphen"/>knowledge</hi> Him. It is a Duty that is to mingle it ſelf with all the ſeveral Motions of our Soul and Body. It does not terminate in our Mind or Tongue, but obliges us to all ſuch proper Acts, as naturally flow from ſuch a Recognition of Him. Is God our Sovereign Lord and King? Are we of right His Subjects? Do we act by His Permiſſion? Is He conſcious of every Motion
+<pb n="8" facs="tcp:95114:6"/>that we make? And do we acknowledge this? Why, then we are obliged by our own Confeſſion, as well as by the Reaſon of the thing, to ſubmit our ſelves <hi>intirely</hi> to <hi>Him;</hi> to ſuſpend our Judg<g ref="char:EOLhyphen"/>ment, reſtrain our Affections, and forbear the Proſecution of our Deſign, till we are firſt ac<g ref="char:EOLhyphen"/>quainted with the Senſe, and Pleaſure of God in the Caſe before us; till we have prayed to Him for His Aſſiſtance, and ſubmitted the Event of all to His Wiſdom and Providence. This is, <hi>in our Ways,</hi> to <hi>acknowledge God.</hi>
+            </p>
+            <p>For as all theſe ſeveral Acts are fairly implied in the Word it ſelf, as it has been now ex<g ref="char:EOLhyphen"/>plain'd, ſo there is nothing more uſual in Scri<g ref="char:EOLhyphen"/>pture, than to mention only <hi>One,</hi> and that per<g ref="char:EOLhyphen"/>haps the loweſt Act of a general Duty, when all the reſt, that rationally flow from that that is expreſs'd, are implied and underſtood. <hi>God ſo loved the World,</hi> ſays our Saviour, <hi>That He gave His only begotten Son into the World, that who<g ref="char:EOLhyphen"/>ſoever Believeth in Him,</hi>
+               <note place="margin">St. Joh. 3.16.</note> 
+               <hi>ſhould not periſh, but have Everlaſting Life;</hi> but it muſt be in Conjunction with ſuch a ſuitable Converſation, as ſuch a Be<g ref="char:EOLhyphen"/>lief will prompt us to,<note place="margin">James 2.19.</note> becauſe <hi>the Devils Be<g ref="char:EOLhyphen"/>lieve,</hi> but yet they ſhall never be ſaved. And, <hi>can Faith ſave ye?</hi> ſays St. <hi>James,</hi> That is, it cannot ſave ye, <hi>if it be alone.</hi> And again, with the Mouth <hi>Confeſſion</hi> is made unto Salvation,<note place="margin">Rom. 10.80.</note>
+               <pb n="9" facs="tcp:95114:6"/>ſays St. <hi>Paul;</hi> but it implies ſuch a ſuitable Life as will follow ſuch a <hi>Confeſſion,</hi> if it be ſincere: For, <hi>not every one that ſaith unto me Lord, Lord,</hi> ſays our Saviour, not every one that owns me, or is called by my Name, <hi>ſhall enter into the Kingdom of Heaven, but he that does the Will of my Father,</hi> &amp;c. Thus here in my Text, <hi>in all thy Ways acknowledge Him,</hi> the Act of <hi>Confeſſion</hi> only is mentioned, when all ſuch <hi>other Acts</hi> as ſuch a Recognition prompt us to, are implied and underſtood. <hi>He judged the Cauſe of the poor and needy, and then it was well with Him,</hi>
+               <note place="margin">Jer. 22.16.</note> 
+               <hi>was not this,</hi> and nothing elſe without this, <hi>to know me ſaith the Lord?</hi>
+            </p>
+            <p>Wherefore then, to <hi>Acknowledge God</hi> in the Senſe of my Text, is to Confeſs and Own Him, according to all thoſe ſeveral Accounts, and Ma<g ref="char:EOLhyphen"/>nifeſtations of Himſelf, that he has given us; that He is our Sovereign Lord and King; that we are intirely ſubject to Him; that He has gi<g ref="char:EOLhyphen"/>ven us a Law, and that we ought to obey it; that He knows our Thoughts, that He ſees our Deſigns, and will reward and puniſh us accor<g ref="char:EOLhyphen"/>ding to our Works: And that therefore we revere Him awefully, and ſubmit our ſelves and our Deſigns intirely to His Will; that we make Him always preſent to us, and never ven<g ref="char:EOLhyphen"/>ture to embrace a Propoſition, reſolve upon an
+<pb n="10" facs="tcp:95114:7"/>End or do any conſiderable Action, till we have firſt compared it with the Rule that He has given us; and if we find it is againſt us, that we then reject it with all the Chearfulneſs in the World, though never ſo dear, or never ſo advantageous to us in Appearance; if we find it is with us, and that we may ſafely proſecute our Purpoſe, that we then proceed with Confidence, implo<g ref="char:EOLhyphen"/>ring firſt His Bleſſing, and ſubmitting the Event of all to His good Will and Pleaſure. This is the Senſe of the Words, and the Nature of the Duty, <hi>In thy Ways Acknowledge God.</hi>
+            </p>
+            <p n="2">2. I proceed in the Second Place to conſider the Extent, the Scope and latitude of the Duty, not only in ſome Particulars, but <hi>in All thy Ways Acknowledge Him.</hi>
+            </p>
+            <p>It is a Duty, indeed, that is not capable of Limitation, for unleſs our Reſignation ſhall be Univerſal, it cannot be ſincere. An induſtrious Reſervation of our own Self-will, in any Inſtance, deſtroys our Principle intirely. For if we were in Earneſt; if we Acknowledg'd God in Truth; if we believed our Relation to Him, and had made His Will the Supreme and leading Prin<g ref="char:EOLhyphen"/>ciple of our Actions, as the Duty requires, we could not preſume, in any inſtance, to proceed without Him. Becauſe the Principle, where<g ref="char:EOLhyphen"/>ever it is True, muſt needs have the ſame effect
+<pb n="11" facs="tcp:95114:7"/>and force upon us in one thing, as it has in ano<g ref="char:EOLhyphen"/>ther. No Accidents or Occurrences, no Cir<g ref="char:EOLhyphen"/>cumſtances whatſoever, can either alter the <hi>caſe,</hi> or Releaſe us from our Obligation. And there<g ref="char:EOLhyphen"/>fore to pretend to <hi>Acknowledge God,</hi> unleſs we are <hi>intirely</hi> Reſign'd to His Will, or ſo long as we have any Reſerves, is either Self-deceit, or groſs Hypocriſie. The Univerſality of our Sub<g ref="char:EOLhyphen"/>miſſion, is the only Teſt of our Sincerity. For if we pick and chuſe our Duties, and reject what we pleaſe, we do not take our Rule from God, but have framed it our ſelves, by our own Corrupt and Private Inclinations.</p>
+            <p>But let us not deceive our ſelves, there is no halting between both. <hi>Ye cannot ſerve God and Mammon,</hi> ſays our Saviour; and,<note place="margin">St. Mat. 6.24.</note> 
+               <hi>He that offends in one Point,</hi> ſays St. <hi>James,</hi> in the Senſe before us, <hi>is Guilty of all.</hi> No! we cannot be ſaid to acknowledge Him at all, unleſs we ſubmit to His Direction, as well in thoſe particulars, wherein our Temper and our preſent Inclinations, are more averſe and contrary to His Will, as in thoſe, where they are more conſenting and agreeing with it. The very Life and Spirit of the Duty is <hi>Self-denial,</hi> and eſpecially in thoſe particulars where our Wills are moſt perverſe, and the Byaſs of our miſtaken Intereſt and Plea<g ref="char:EOLhyphen"/>ſure are the ſtrongeſt.</p>
+            <pb n="12" facs="tcp:95114:8"/>
+            <p>Thus <hi>Abnega prorſus,</hi>
+               <note place="margin">St. <hi>Chryſoſt.</hi> upon St. Mat. 16.24. St. Joh. 12.25. Eph. 2.3. St. Luk. 14.26. St. Mat. 18.8, 9.</note> is our Saviour's account of the Duty, Deny thy ſelf <hi>intirely,</hi> even to the <hi>Hatred of thine own Soul;</hi> or as St. <hi>Paul</hi> expreſſes it, that we Reſign the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the things that we love and approve of: <hi>Hands</hi> and <hi>Eyes, Lands, Houſes and Relations;</hi> that we ſub<g ref="char:EOLhyphen"/>mit all theſe, and whatſoever elſe ſhall ſtand in the way of our Duty, tho' we our ſelves are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Col. 1.21.</note> Enemies at the preſent in our Minds.</p>
+            <p>This then is the Sum of the Duty, in the full Extent and Latitude thereof, <hi>In all thy Ways ac<g ref="char:EOLhyphen"/>knowledge God,</hi> in every Motion of thy Mind, in every Deſign you undertake, and in every action that you do, let the Will of God be the Rule and Meaſure of your Proceedings. Move not without conſulting Him, do nothing with<g ref="char:EOLhyphen"/>out His concurrence, Pray continually for His aſſiſtance, and chearfully ſubmit to ſuch an Event of things as He ſhall bring to paſs. Thus much for the Duty.</p>
+            <p n="2">2. I proceed, in the Second place, to conſider the Encouragement, or the Motive that is offered to the Practice of it, <hi>viz.</hi> That if <hi>in all our Ways we acknowledge Him,</hi> He then <hi>will direct our Paths.</hi>
+            </p>
+            <p>Two things are chiefly here to be conſi<g ref="char:EOLhyphen"/>dered:
+<pb n="13" facs="tcp:95114:8"/>
+               <list>
+                  <item>1. <hi>Firſt,</hi> The <hi>Truth</hi> of the Propoſition, or what Aſſurances we have that <hi>God will,</hi> indeed, <hi>direct the Paths of thoſe who in all their Ways acknow<g ref="char:EOLhyphen"/>ledge Him.</hi> And,</item>
+                  <item>2. <hi>Secondly,</hi> The <hi>Force</hi> of the Motive, or be<g ref="char:EOLhyphen"/>cauſe He will vouchſafe to <hi>direct</hi> our <hi>Paths,</hi> that therefore, <hi>in all our Ways we ſhould acknowledge Him.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. <hi>Firſt,</hi> I ſhall inquire into the Truth of the Propoſition; or, what Aſſurances we have that God will, indeed, <hi>Direct the Paths of thoſe who in all their Ways acknowledge Him.</hi> And,</p>
+            <list>
+               <item>1. <hi>Firſt,</hi> I ſhall conſider what this Bleſſing and Advantage means, or what we are to underſtand by this <hi>Divine Direction</hi> that is promiſed in my Text. And,</item>
+               <item>2. <hi>Secondly,</hi> That God will certainly make good this Promiſe to us, and <hi>Direct the Paths</hi> of <hi>thoſe who in all their Ways acknowledge Him,</hi> according to the full intent and meaning of it.</item>
+            </list>
+            <p n="1">1. <hi>Firſt,</hi> I ſhall conſider what this Bleſſing and Advantage means, or what is underſtood by this <hi>Divine Direction</hi> that is promiſed in my Text, or what we are to expect from <hi>God,</hi> when He ſays, <hi>I will direct thy Paths.</hi>
+            </p>
+            <p>We cannot pretend to give an Account of <hi>all</hi> the Bleſſings that are contain'd in this amazing Condeſcenſion, <hi>I will direct thy Paths;</hi> but thus
+<pb n="14" facs="tcp:95114:9"/>much, however, it ſignifies, at leaſt, that if we Acknowledge Him <hi>in truth,</hi> if we are Reſign'd to His Will without Reſerve, we ſhall have vaſt advantages, thrô His Aſſiſtance, in Forming our Deſigns, Adapting our Means, and Attaining our Ends; we ſhall proceed more Wiſely, more Securely, and more Succeſsfully than thoſe who lean to their own Underſtanding, and are Wiſe in their own Conceits. For,</p>
+            <p n="1">1. <hi>Firſt,</hi> We ſhall be under the Direction of His <hi>Law,</hi> that <hi>Eternal Law of our Creation,</hi> which He has inſcrib'd upon our Minds. Our Reaſon ſhall be Brighter, and more free from Prejudice; and by this Light, if we had no other, we ſhould be able to diſcern, in every caſe, what is proper to be done, and how we are to proceed. And in this Senſe that of <hi>Solomon</hi> is underſtood, in the 11th. Chapter of his Proverbs, at the 3<hi rend="sup">d.</hi> Verſe, <hi>The Integrity of the <g ref="char:V">Ʋ</g>pright ſhall guide them, but the perverſeneſs of Tranſgreſſors ſhall deſtroy them.</hi>
+            </p>
+            <p>But, <hi>Secondly,</hi> and in a more eſpecial manner, we ſhall be under the Direction of <hi>His Law Revealed.</hi>
+            </p>
+            <p>This points us plainly to our Duty and our Intereſt, and ſhows us, with the Finger, if there be no Prejudice upon our Minds, what is fit for us to Chuſe, to Do, and to Forbear: It takes
+<pb n="15" facs="tcp:95114:9"/>us by the Hand, and puts us into the way that we ſhould walk in, and keeps us ſteddy, ſafe and upright, till our Endeavours ſhall be Crown'd at laſt with ſuch a Succeſs as we our ſelves would wiſh. <hi>He ſhall direct thy Paths,</hi> is the Promiſe of my Text; and <hi>this is the Way, walk in it,</hi> ſays the Prophet <hi>Eſay,</hi> ſpeaking of the <hi>Word of God.</hi>
+               <note place="margin">Iſa. 30.21.</note> And <hi>Thy Word,</hi> ſays Holy <hi>David, is a Lamp unto my feet, and a Light unto my paths;</hi>
+               <note place="margin">Pſal. 119.105.</note> and there<g ref="char:EOLhyphen"/>fore, <hi>I have ſet thy Law alway before my face, I not be moved,</hi> and <hi>ſo,</hi>
+               <note place="margin">Pſal 16.8.30.3.</note> in another place, <hi>ſhall my Way be perfect;</hi> without any Rub or Flaw, without any notable Error, or fatal diſ<g ref="char:EOLhyphen"/>appointment; my Life ſhall be Eaſy, my Spirit Chearful, and I ſhall be as Happy as I can expect.</p>
+            <p n="3">3. But this is not all the Direction that is contain'd in the Promiſe of my Text. For He has not only given us a Law that is perfect in it ſelf, which, if we could obſerve, would <hi>make us Wiſe unto Salvation,</hi> and <hi>furniſh us effectually, for every good Word and Work;</hi> but He will alſo direct us in a more Intimate and Immediate man<g ref="char:EOLhyphen"/>ner, how we ſhall apply this Rule to our proper Caſe, and in every Strait or Exigence that we ſhall happen to be under.</p>
+            <p>He will Inlighten our Minds, Encourage our Endeavours, Remove Impediments, Chear our
+<pb n="16" facs="tcp:95114:10"/>Spirits, and order all things Opportunely by His Providence, till He brings us Safe, at laſt, to our Journeys end.</p>
+            <p>For a Law, tho' it be never ſo <hi>Holy, Juſt and Good,</hi> yet it is not a ſufficient Direction to ſo imperfect a <hi>Reaſon</hi> as ours is. For <hi>the Way of man is not in himſelf,</hi>
+               <note place="margin">Jer. 10.23.</note> as the Prophet <hi>Jeremy</hi> ob<g ref="char:EOLhyphen"/>ſerves, <hi>it is not in Man that walketh to direct his Steps.</hi> We can do but very little more than Ap<g ref="char:EOLhyphen"/>prove, Deſire, and Wiſh, but are eaſily enticed, and drawn out of the way.</p>
+            <p>And therefore, notwithſtanding the Plainneſs and Perfection of the Law of God, if He did afford us,<note place="margin">Phil. 1.19.</note> alſo the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the ſup<g ref="char:EOLhyphen"/>ply of the Spirit,</hi> the Divine Aſſiſtance in a more Immediate manner; if He did not inject good motions into our Minds Himſelf, if He did not nouriſh and confirm them, if He did not quicken our Underſtanding, and blow up the Smoaking Flax; if He did not do as much of our Buſineſs for us, as is poſſible to be done with Safety to our Nature and the Freedom of our Choice, it would be impoſſible to keep our Way.</p>
+            <p>And this Immediate influence of his Power and Wiſdom, over our Proceedings, is that which is principally promiſed in the words of my Text, <hi>And He ſhall Direct thy Paths.</hi>
+            </p>
+            <pb n="17" facs="tcp:95114:10"/>
+            <p n="2">2. But this, and a great deal more, that we are not able ſo much as to conceive, He will certainly Vouchſafe to thoſe, who, <hi>in all their Ways ac<g ref="char:EOLhyphen"/>knowledge Him.</hi>
+            </p>
+            <p>Such a Conſent of Will, ſuch a perfect Reſig<g ref="char:EOLhyphen"/>nation, as I have now deſcribed, create ſuch a Sympathy between God and us, that we may be ſure there ſhall be nothing wanting on His part, to complete our Happineſs. Such an intire Sub<g ref="char:EOLhyphen"/>miſſion of our Will to His, admits us into the Endearments of a near Relation, and gives us a ſort of <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> with Himſelf, <hi>in whom all Fulneſs dwells,</hi> and from whom it will flow, in an Abun<g ref="char:EOLhyphen"/>dant manner upon us.</p>
+            <p>But there is no need of arguing from the Rea<g ref="char:EOLhyphen"/>ſon of the thing, ſince the Holy Scriptures, every where, abound with Promiſes of the Divine Aſ<g ref="char:EOLhyphen"/>ſiſtance, in this particular and immediate manner, that we now Aſſert, and Inſiſt upon. For,</p>
+            <p>Would you be Reſolv'd, from an honeſt Prin<g ref="char:EOLhyphen"/>ciple, what Courſe you are to Steer that ye may be happy? Why,<note place="margin">Pſ. 25.12.</note> 
+               <hi>He will teach you the way you ſhall Chuſe.</hi>
+            </p>
+            <p>Or, being entred, Are ye afraid leſt ye ſhould wander, and turn aſide out of the Path again? Why,<note place="margin">Pſ. 37.</note> 
+               <hi>The Good man's Steps are Ordered by the Lord, and He Delighteth in his Way.</hi>
+            </p>
+            <p>Or, Are ye afraid of Aſſaults upon the Road,
+<pb n="18" facs="tcp:95114:11"/>and do you diſtruſt your own Ability to Reſiſt them? Why, <hi>He will lay no more upon thee than thou art able to bear,</hi>
+               <note place="margin">Cor. 10.3.</note> 
+               <hi>but will with the Temptation, alſo find a way for thee to Eſcape.</hi>
+            </p>
+            <p>Or, Do you meet with Croſſes and Afflictions as ye go? Why, <hi>God will Hide thee under the ſhadow</hi> of his wings.<note place="margin">Pſ. 27.8.46.1.</note> And, <hi>He is a very preſent Help in trouble.</hi>
+            </p>
+            <p>Or, Do ye find any Difficulties, any rugged Way, in the Road it ſelf, and are ye afraid of Falling? Why, <hi>When thou goeſt, thy Steps ſhall not be ſtraitned and when thou runneſt thou ſhalt not ſtumble.</hi> And again, <hi>He will hold up thy Goings in thy Paths,</hi>
+               <note place="margin">Prov. 4.12.17.5.</note> 
+               <hi>that thy Foot-ſteps ſhall not ſlip.</hi>
+            </p>
+            <p>Or, Do ye chance to fall indeed? (it is inci<g ref="char:EOLhyphen"/>dent to the humane Nature, and God permits it, that we may know our ſelves to be but Men) yet in ſha'n't be fatal; For, <hi>tho' he fall, he ſhall not be utterly caſt down,</hi>
+               <note place="margin">Pſ. 37.24.</note> 
+               <hi>for the Lord upholdeth him with His hand.</hi>
+            </p>
+            <p>Finally, Are ye faint and weary? Do ye think it long till you gain your point, and ſee an Iſſue of your Labours? Be not ſollicitous; <hi>All things ſhall work together for your Good.</hi>
+               <note place="margin">Rom. 8.28.</note> 
+               <hi>Commit thy way unto the Lord,</hi>
+               <note place="margin">Pſ. 37.5.</note> 
+               <hi>Truſt alſo in Him, and He will,</hi> certainly, <hi>bring it to paſs.</hi>
+            </p>
+            <p>This is the Promiſe of my Text; This is the Covenant that God has made with thoſe who
+<pb n="19" facs="tcp:95114:11"/>Reſign themſelves intirely to Him, that He will thus <hi>Direct their Ways.</hi>
+            </p>
+            <p>Theſe Promiſes, it cannot be denied, are ex<g ref="char:EOLhyphen"/>ceeding great indeed; but can we hope that they ſhall be fulfill'd? Is not Man a voluntary Agent? Is it not his Eſſential Property, that He is the Maſter of Himſelf, and that all his Deſigns and Actions are the pure reſult of his own Choice? How then can he be acted by another, and yet retain the Liberty of his Will?</p>
+            <p>To Reconcile this ſeeming Contradiction, may appear a Difficulty at the firſt View of it; but if we carefully conſider it, we ſhall find that both theſe Propoſitions are equally True, and very con<g ref="char:EOLhyphen"/>ſiſtent with each other. For it is no where ſaid, that God will act us Irreſiſtibly, or that the In<g ref="char:EOLhyphen"/>fluences of His Grace ſhall be a Force upon us; He does not drive us againſt our Will, but takes us by the hand we <hi>give</hi> Him, and only leads the <hi>Ductil</hi> Temper, and the <hi>Willing</hi> Mind. We muſt <hi>Acknowledge Him,</hi> before He will <hi>direct our Ways;</hi> for He aſſiſts the Work of none but thoſe who work themſelves, or are willing to be wrought upon.</p>
+            <p>It muſt be allowed that the Communication of Spirits, or the Manner how all this is done; how God awakens our Underſtanding, how He changes our Mind, how He forms new Opinions in us, new
+<pb n="20" facs="tcp:95114:12"/>Reſolutions, Vigour, and Affections, and how He aſſiſts our Endeavours all along, till our Courſe is finiſhed, is to us unknown. And, indeed, we have no Reaſon to be concern'd about it; it is enough that we Believe and Adore, but the man<g ref="char:EOLhyphen"/>ner how it is perform'd is above our Underſtan<g ref="char:EOLhyphen"/>ding, and therefore we ought not to Expect it, or inquire into it.</p>
+            <p>But the thing it ſelf, or that they, why <hi>in all their Ways Acknowledge God, ſhall be thus Directed by Him,</hi> is evident to the Senſe of all Good Men, aſſerted poſitively in the Holy Scriptures, and is no way <hi>Repugnant</hi> to our Reaſon, and that's ſuffi<g ref="char:EOLhyphen"/>cient.</p>
+            <p>For ſince God is Infinite in all Perfections; ſince He is ignorant of nothing, Natural or Volun<g ref="char:EOLhyphen"/>tary, that either is, or ſhall, or can be; ſince the Secrets of all Mens Hearts, and the Operations of all Cauſes are before His Eyes; it is eaſy to conceive, that He may as affectually influence a Rational Agent, as direct a Subject natural or merely paſſive.</p>
+            <p>Since He knows the preſent Diſpoſition of our Souls, and the Order of all our Deſigns and Thoughts; may He not inject His Motives, clear our Reaſonings, prevent Temptations, encourage or diſſwade our Purpoſes, and order all things opportunely by His Providence?</p>
+            <p>The Will of Man is wrought upon no other
+<pb n="21" facs="tcp:95114:12"/>Way, than by the Appearances of things in his Underſtanding; and therefore if God has a per<g ref="char:EOLhyphen"/>fect Knowledge of all the Motions of our Minds, of all our Doubts, Debates, Intentions and De<g ref="char:EOLhyphen"/>ſigns, He may, without Diſpute, according to our own Conceptions, afford us vaſt Advantages in Apprehending rightly, in Judging, Chuſing, Reſolving, and Acting as we ought to do; and this without any Prejudice at all to the Property of our Nature, the Freedom of our Choice.</p>
+            <p>Let it be ſo then; yet is it ſuch a mighty <hi>Bleſſing</hi> to be led by another? Is there any In<g ref="char:EOLhyphen"/>convenience ſo great, that a Man would not ra<g ref="char:EOLhyphen"/>ther endure than part with his Liberty? Can there be a more perfect State of Happineſs than to be Maſters of our ſelves, to purſue our Incli<g ref="char:EOLhyphen"/>nations, and do whatſoever pleaſes us? What then, though God will be pleaſed to <hi>Direct my Paths,</hi> is that enough to perſwade me to give up my ſelf intirely to Him, and in all my De<g ref="char:EOLhyphen"/>ſigns, and Actions to be govern'd by Him? Yea, moſt certainly, it is an abundant Recom<g ref="char:EOLhyphen"/>pence.</p>
+            <p n="2">2. And this was the laſt Particular I pro<g ref="char:EOLhyphen"/>poſed to Conſider, namely, wherein the In<g ref="char:EOLhyphen"/>couragement conſiſts, and where lies the Force of the Argument; or, becauſe He will vouch<g ref="char:EOLhyphen"/>ſafe to Direct our Paths, that therefore we ſhould
+<pb n="22" facs="tcp:95114:13"/>run unto Him joyfully, and Reſign our ſelves, without Reſerve, to His Diſpoſal.</p>
+            <p>Indeed, if we conſider all its Weight and Strength, we ſhall find that it is <hi>more</hi> than an <hi>Encouragement,</hi> and muſt, of Neceſſity, <hi>Deter<g ref="char:EOLhyphen"/>mine</hi> us. For as ſoon as we underſtand who it is that promiſes, and to whom the Promiſe is made, there can be no Heſitation or Doubt upon our Mind; the Caſe is clear, and we can do no other than yield to the force of the Motive.</p>
+            <p>For is it not our greateſt Good, our trueſt Liberty, to be directed by the moſt Perfect Be<g ref="char:EOLhyphen"/>ing? Are we not ignorant of a thouſand times more than we know? Impatient of Happineſs, but doubtful what to chuſe? Buſie and ambiti<g ref="char:EOLhyphen"/>ous, paſſionate and eager, but not well knowing what we would have? Confident in our Way, very wiſe, as we think, in laying our Deſigns, but almoſt always Baffled, for the moſt part Diſ<g ref="char:EOLhyphen"/>appointed? We cannot ſee far enough into the Effects of Cauſes to <hi>Prevent</hi> Impediments, nor are we ſtrong enough to <hi>Remove</hi> them when they do Appear. Where Innumerable Agents have an eye to the ſelf-ſame thing, where every one would make his Fortune, and All are running upon the heels of one another for the Prize, there muſt be in<g ref="char:EOLhyphen"/>terfering, Tumult, Claſhing, and perpetual Con<g ref="char:EOLhyphen"/>tentions.</p>
+            <pb n="23" facs="tcp:95114:13"/>
+            <p>And will God, amidſt theſe Difficulties, <hi>direct the Paths</hi> of thoſe, who <hi>in all their Ways acknowledge Him?</hi> Surely we ſhall embrace the offer, lie down at His feet, and give up our ſelves intirely to Him.</p>
+            <p n="1">1. For <hi>now</hi> we ſhall proceed by the Direction of Infinite Wiſdom, and the moſt Perfect Know<g ref="char:EOLhyphen"/>ledge. We ſhall be guided <hi>now</hi> by one who cannot miſtake His Way. Inſtead of thoſe Thorns, and Briars, Rocks and Precipices, Paſſions, Follies, Mi<g ref="char:EOLhyphen"/>ſtakes and Troubles that we have led our ſelves into, we ſhall <hi>now</hi> be put into a Road that is ſtraight and Eaſy, that is <hi>Broad</hi> and ſafe.<note place="margin">Pſ. 119.</note> We ſhall be dire<g ref="char:EOLhyphen"/>cted <hi>now</hi> to the beſt and Wiſeſt Ends, and proceed Securely in the ready Way that will lead us to them.</p>
+            <p>For <hi>His <g ref="char:V">Ʋ</g>nderſtanding is Infinite,</hi> ſays the Pſal<g ref="char:EOLhyphen"/>miſt, and, <hi>By Him all Ways are trodden in Heaven,</hi>
+               <note place="margin">Pſ. 147.5.</note> 
+               <hi>in Earth,</hi> and <hi>in the Deep.</hi>
+            </p>
+            <p>He ſees the Working of all mens Minds; All things lie before Him naked as they are; and therefore His Judgment cannot be impoſed upon and His Directions muſt be certain and Infallible.</p>
+            <p n="2">2. And Now that His Wiſdom has put us into the proper Way, His Infinite Goodneſs, Love, and Pity, will guide us ſoftly to our Journeys end.</p>
+            <p>We ſhan't be hurried by the Inſolence of a Ty<g ref="char:EOLhyphen"/>rant, but Gently led,<note place="margin">Pſ. 23.1. Iſ. 49.15.</note> with the <hi>watchfulneſs of a Shepherd, and the tenderneſs of a Mother.</hi>
+            </p>
+            <pb n="24" facs="tcp:95114:14"/>
+            <p>He will ſuit His Directions to our Abilities, and give us ſuch Commands as will improve our Na<g ref="char:EOLhyphen"/>ture, and advance our Intereſt. He will <hi>conſider our frame,</hi> and Pardon our Deflections, put us again and again into the Way, and Reſtore us to His Favour upon Repentance. And thus, <hi>His Arm ſhall ſupport us,</hi>
+               <note place="margin">Pſ. 23.2.</note> 
+               <hi>and His Rod ſhall Comfort us.</hi> And therefore <hi>His Saints</hi> and Servants <hi>Bleſs Him,</hi> ſays the Pſalmiſt, they Rejoice under His Gui<g ref="char:EOLhyphen"/>dance, and are ſatisfied with His Conduct of them.<note place="margin">Pſ. 144.10.</note>
+            </p>
+            <p>But His Wiſdom to direct us, and His Good<g ref="char:EOLhyphen"/>neſs to take care of us, tho they are indeed very great Advantages, yet would hardly determine us to Reſign our ſelves intirely to Him, unleſs He has alſo Power enough to defend us under all Aſſaults, and deliver us from all our Enemies; unleſs He can remove Impediments, aſſoil all Diffi<g ref="char:EOLhyphen"/>culties, and bring our Ends and Deſigns to paſs.</p>
+            <p n="3">3. But His <hi>Power</hi> as well as His Wiſdom, and Goodneſs, is Infinite and without Controul.</p>
+            <p>And this complears the Qualification of a Guide, and even forces our intire Submiſſion to His Will. For He does not only ſhow us our Good, but will alſo certainly inveſt us in it. For, <hi>His Dominion Ruleth over all. There is no End of His Greatneſs;</hi> And, <hi>He does whatſoever pleaſes Him, in Heaven and in Earth.</hi>
+            </p>
+            <p>And indeed, this Argument is oft'ner urged, in
+<pb n="25" facs="tcp:95114:14"/>the Holy Scriptures, to our preſent purpoſe, (as being more plain and ſenſible, than any other.) <hi>Truſt in the Lord for ever,</hi> ſays the Prophet <hi>Iſaiah,</hi>
+               <note place="margin">Iſai. 26.4.</note> Why? <hi>becauſe in the Lord Jehovah is Everlaſting Strength.</hi> My Soul, ſays the Pſalmiſt, <hi>wait thou ſtill upon God;</hi> Why ſo?<note place="margin">Pſ. 62.5, 6.</note> 
+               <hi>becauſe He only is my Rock, my Refuge, my Defence, and my Salvation.</hi>
+            </p>
+            <p>Theſe are the Qualifications of our Guide; Infinite in VViſdom to Direct us, Compaſſionate and tender to Aſſiſt us, and of uncontroulable Power to accompliſh our Deſigns.</p>
+            <p>Theſe Eminent Qualities, no where to be found but in Himſelf, will both Juſtifie and Reward our moſt intire Reſignation of our ſelves to be Govern'd by Him. For here we have all the Recompence that we can either ask or think of, for the Submiſſion of our Private Will, which would undo us, to the moſt Perfect Will of God, Who can do no other than Order all things for the beſt.</p>
+            <p>This then is the Bleſſing, and this is the En<g ref="char:EOLhyphen"/>couragement to purſue it. No other Method of proceeding can pretend to the like Security. And therefore common ſence, nay, the firſt and moſt obvious Principle of Self love and Preſervation, obliges us to embrace it.</p>
+            <p n="1">1. For <hi>now</hi> we ſhall be always Fixed, Reſolv'd and Steddy; We ſhall be free from anxious
+<pb n="26" facs="tcp:95114:15"/>doubts, and croſs Deliberations, and all our Thoughts ſhall glide on ſmoothly, in a calm and even Current.</p>
+            <p>We ſhall not <hi>Stagger, like a Drunken man,</hi> and <hi>be at our Wits end,</hi> as the Prophet deſcribes the Miſery of the Wicked,<note place="margin">Pſ. 107.27.</note> and Self-will'd. We ſhall not <hi>wander in the dark, being deſtitute of God, and not know where to ſet our foot,</hi> as the Philoſopher expreſſes it.<note place="margin">Hier.</note> But we ſhall proceed with Confidence, and Certainty; one ſteady Principle, or the Will of God, preſides and Rules over all our Thoughts, Deſigns and Actions, and we ſhall ſeldom be to ſeek, in any caſe, what is fit for us to do.</p>
+            <p>Or if, thrô our own unwarineſs, we chance to doubt, we ſhall never fail of the Divine Aſſi<g ref="char:EOLhyphen"/>ſtance; for, Thou <hi>meeteſt Him,</hi> (thou art always preſent to His help) <hi>who conſiders Thee in Thine own Way.</hi>
+               <note place="margin">Iſ. 64.5.</note>
+            </p>
+            <p n="2">2. Now ſhall we be Sedate and Quiet, without Anxiety or Fear.</p>
+            <p>
+               <hi>The Wicked travel in Pain,</hi> ſays Holy <hi>Job.</hi> They are not Equal to the buſineſs they propoſe;<note place="margin">Job 15.20.</note> They put to Sea without a Pilot, and are liable to continual Storms and Wrecks. The World is their <hi>All,</hi> and Experience ſhows them that they can't Command it. Their Affairs are Subject to innumerable Contingencies, and therefore they
+<pb n="27" facs="tcp:95114:15"/>are always in Apprehenſion of unexpected Ac<g ref="char:EOLhyphen"/>cidents: And, which is worſe, they have no other Stay to depend upon, no Refuge to be<g ref="char:EOLhyphen"/>take them to. If they loſe their preſent Aims, which is impoſſible for them to ſecure, they are utterly undone. And who can live under the Burden of ſuch a ſlaviſh Fear?</p>
+            <p>But they who are Reſign'd to the Will of God, are free from gnawing Care, and anxious Solicitude. They have put their Affairs into the Hands of the Wiſeſt, and moſt Faithful Friend, who knows what is beſt, and can do what He will; no Impediment can Stop Him, no Acci<g ref="char:EOLhyphen"/>dent can Croſs Him, and therefore we are ſure that that which comes to paſs is, upon the Mat<g ref="char:EOLhyphen"/>ter, fitteſt for us; and no Man can be afraid who is thus ſecured. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c. <hi>Dare then to lift up your Eyes to God,</hi> ſays the Philoſopher, <hi>and ſay, Guide me by thy Coun<g ref="char:EOLhyphen"/>ſels whitherſoever thou wilt;</hi>
+               <note place="margin">
+                  <hi>Arrian</hi> in Ep.</note> 
+               <hi>I am of the ſame Opi<g ref="char:EOLhyphen"/>nion with thy ſelf, I will do and ſuffer whatſoever pleaſes Thee; and this ſhall give Thee Steddineſs and Immobility. When thou lieſt down,</hi> ſays <hi>Solomon, thou ſhalt not be afraid, yea thou ſhalt lie down, and thy Sleep ſhall be ſweet,</hi>
+               <note place="margin">Pro. 3 24.26.</note> 
+               <hi>for the Lord is thy Confidence.</hi>
+            </p>
+            <p n="3">3. Now ſhall our Lives be eaſie, and we ſhall enjoy the moſt perfect Peace and Pleaſure that we are capable of on Earth.</p>
+            <pb n="28" facs="tcp:95114:16"/>
+            <p>Briars, Thorns, and Difficulties on every ſide, are in the way of the Wicked; Their Spirits are hurried by continual Cares and croſs Events; their Minds are troubled with corroding, ſharp Refle<g ref="char:EOLhyphen"/>ctions upon themſelves, with inward Upbraidings of their Raſhneſs, Follies and Miſtakes.</p>
+            <p>But he who has ſubmitted his Affairs to the wiſeſt Judgment, and put them under the conduct of abſolute Power, and the moſt perfect Goodneſs, has nothing left to trouble himſelf about.</p>
+            <p>He is ſatisfied in his Guide, and waits the E<g ref="char:EOLhyphen"/>vent with an humble, dutiful Indifference.</p>
+            <p>He proceeds upon ſuch certain grounds, and ſuch a ſufficient warrant, as will bear him out a<g ref="char:EOLhyphen"/>gainſt himſelf; and there will be no room in his Breaſt for anxious Reflection, or Repentance. He acts according to the Law of his Creation; he is always in his proper Place, and doing his proper Work, which gives him a Share in that Delight and Harmony that ariſes from ſuch an Obedience to our Principle, ſuch an intire Conſent of Will with God. <hi>All perfect Beings,</hi> ſays the Philoſopher, <hi>incline to their Author,</hi>
+               <note place="margin">Porphyr.</note> 
+               <hi>and to embrace Him is agree<g ref="char:EOLhyphen"/>able, natural, and eaſie to us.</hi>
+            </p>
+            <p n="4">4. Finally, they who are reſign'd to God, ſhall, for the moſt part, be ſucceſsful in their Underta<g ref="char:EOLhyphen"/>kings; they have far more Reaſon to expect it in this, than in any other way whatever.</p>
+            <pb n="29" facs="tcp:95114:16"/>
+            <p>The Wicked are ſo Eager in their Purſuits, that their Reaſon is clouded, and they run before their Judgment. They aim at things which are out of their Reach, and purſue them with equal Ignorance, and Zeal. And thus,<note place="margin">Pſ. 5.10</note> 
+               <hi>His own Coun<g ref="char:EOLhyphen"/>ſels,</hi> ſays the Pſalmiſt, <hi>make him fall.</hi>
+            </p>
+            <p>But they who in all their ways Acknowledge Him, ſhall, moſt commonly, attain their Hopes. They propoſe ſuch Ends as are within their com<g ref="char:EOLhyphen"/>paſs, and their Applications will be Regular and Effectual. Their Minds are Clear and Eaſy, which will give a Juſt and Proper Life, and Spirit, to all their Motions.</p>
+            <p>Beſides the Supernatural aſſiſtances of God, who is concern'd for their intereſt in a more immediate manner; who has promiſed to take care of the <hi>very hairs of their head,</hi>
+               <note place="margin">St. Mat. 10.</note> and will certainly bring their Deſigns to paſs, if it be for their Good.</p>
+            <p>Upon the Matter then, to <hi>Acknowledge God in all our Ways,</hi> is not ſo properly a Duty, as a Pri<g ref="char:EOLhyphen"/>vilege. For what can we deſire or wiſh, that we may not obtain, if we take this Method of proceeding? Are we full of Defects and Wants, in this Imperfect State? they will all be ſupplied by the Wiſdom and Power of God. Is our Judg<g ref="char:EOLhyphen"/>ment uncertain, and our Reaſon fallible? Are we long before we underſtand, and do we preſently decay? Let us but reſign our ſelves to God, and
+<pb n="30" facs="tcp:95114:17"/>He'll make up whatſoever is wanting to us.</p>
+            <p>Oh ſtupid ſenſeleſs Man, that art ſo hardly perſwaded to be happy! Are not ſteddineſs of Mind, and Content in our Station, inward Sa<g ref="char:EOLhyphen"/>tisfaction, and a ſure and certain Refuge in di<g ref="char:EOLhyphen"/>ſtreſs, rather to be choſen, than to be vexed from within and from without? to be Harraſs'd by continual anxiety, and worn away by the effects of our fooliſhneſs, and the over-ruling Power of God?</p>
+            <p>Look no more abroad for the Spring and Foun<g ref="char:EOLhyphen"/>tain of your Miſery; Cry out no more upon the Malice of the Wicked, or that Fortune is un<g ref="char:EOLhyphen"/>kind, and Friends forſake you; but turn your Eyes within, and know that all your Misfortune is from your ſelves. We cannot be perfect upon Earth, but we may be Eaſy, if we pleaſe.</p>
+            <p>Let every one of us then, look to our own par<g ref="char:EOLhyphen"/>ticular Ways, and in all our Deſigns and Actions have reſpect to the Will of God; ſo ſhall we have Wiſdom from above; ſo ſhall we have a cer<g ref="char:EOLhyphen"/>tain Knowledge of our Intereſt, and ſhall manage our Affairs with that Sobriety, that Faith, that Truſt and Hope in God, as will Iſſue in Succeſs and Happineſs on Earth, and Eternal Bleſſedneſs in the World to come. <hi>To which, may God,</hi> &amp;c. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95114:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
